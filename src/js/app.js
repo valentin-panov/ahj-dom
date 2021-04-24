@@ -43,6 +43,3 @@ export default class App {
     }, 1000);
   }
 }
-
-const app = new App(4);
-app.gamePlay();
