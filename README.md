@@ -1,6 +1,6 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/anofl92ai6s5g5jj?svg=true)](https://ci.appveyor.com/project/vapanov/ahj-dom)
+[![Build status](https://ci.appveyor.com/api/projects/status/anofl92ai6s5g5jj?svg=true)](https://ci.appveyor.com/project/valentin-panov/ahj-dom)
 
-Боевая версия: https://vapanov.github.io/ahj-dom/
+Боевая версия: https://valentin-panov.github.io/ahj-dom/
 
 Правила сдачи задания:
 
